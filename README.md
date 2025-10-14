@@ -1,4 +1,4 @@
-- Welcome to my GitHub! My name is Nathan Widlake and I am currently a Lead Data Business Analyst at Leidos
+- Welcome to my GitHub! My name is Nathan Widlake and I am currently a Lead Data Business Analyst
 - I'm looking to use this site to share some of my Power Platform / Advanced Analytics work
 - Feel free to reach out to me via linkedin: www.linkedin.com/in/nathan-widlake 
 <!---
